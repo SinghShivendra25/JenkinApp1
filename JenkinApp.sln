@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinApp", "JenkinApp.csproj", "{7D9D182E-5EFB-489C-97DB-087B7E7473BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "..\Math\Math.csproj", "{6C2B9B20-52A3-4321-A618-F0C7A7FEF67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9D182E-5EFB-489C-97DB-087B7E7473BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9D182E-5EFB-489C-97DB-087B7E7473BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9D182E-5EFB-489C-97DB-087B7E7473BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9D182E-5EFB-489C-97DB-087B7E7473BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2B9B20-52A3-4321-A618-F0C7A7FEF67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2B9B20-52A3-4321-A618-F0C7A7FEF67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2B9B20-52A3-4321-A618-F0C7A7FEF67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2B9B20-52A3-4321-A618-F0C7A7FEF67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F89043-98E1-4880-8B91-F882C104C795}
+	EndGlobalSection
+EndGlobal
